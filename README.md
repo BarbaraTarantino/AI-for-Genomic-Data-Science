@@ -24,7 +24,7 @@ Each folder includes slides (PDF) and Jupyter notebooks (`.ipynb`) covering conc
 By the end of the course, participants will be able to:
 
 - Develop Python-based data analysis workflows for genomic and biomedical datasets.  
-- Apply supervised and unsupervised machine learning algorithms for biomedical inference.  
+- Apply supervised machine learning algorithms for biomedical inference.  
 - Design, train, and evaluate deep neural networks using PyTorch.  
 - Implement computer vision methods for medical imaging analysis.  
 - Understand and apply large language models for clinical and biomedical text mining.  
