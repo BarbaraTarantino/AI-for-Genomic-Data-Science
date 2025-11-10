@@ -9,11 +9,11 @@ This repository contains the complete set of slides and interactive notebooks fo
 
 | Day | Topic | Slides | Colab Notebook(s) |
 |:---:|:------|:--------|:------------------|
-| **1** | Python Foundations & AI in Medicine | [Slides](Day1_Python_and_AI_in_Medicine/Python_Foundations_and_AI_in_Medicine.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Day1_Python_and_AI_in_Medicine/Python_NumPy_Notebook_Tasks.ipynb) • [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Day1_Python_and_AI_in_Medicine/Pandas_Matplotlib_Seaborn_Notebook_Tasks.ipynb) |
-| **2** | Core Machine Learning for Genomics | [Slides](Day2_Machine_Learning/Core_Machine_Learning_for_Genomics.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Day2_Machine_Learning/MLmodels_Notebook.ipynb) |
-| **3** | Deep Learning Foundations | [Slides 1](Day3_Deep_Learning/Deep_Learning_Foundations.pdf) • [Slides 2](Day3_Deep_Learning/Deep_Learning_in_Python.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Day3_Deep_Learning/DeepLearning_Notebook.ipynb) |
-| **4** | Computer Vision for Medicine | [Slides](Day4_Computer_Vision/Computer_Vision_for_Medicine.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Day4_Computer_Vision/ComputerVision_CNN.ipynb) |
-| **5** | Large Language Models and Clinical Text | [Slides](Day5_LLMs/Large_Language_Models_and_Clinical_Text.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Day5_LLMs/Biomedical_LLMs.ipynb) |
+| **1** | Python Foundations & AI in Medicine | [Slides](https://github.com/BarbaraTarantino/AI-for-Genomic-Data-Science/blob/main/Day1_Python_and_AI_in_Medicine/Python_Foundations_%26_AI_in_Medicine.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BarbaraTarantino/AI-for-Genomic-Data-Science/blob/main/Day1_Python_and_AI_in_Medicine/Python_NumPy_Notebook_Tasks.ipynb) • [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BarbaraTarantino/AI-for-Genomic-Data-Science/blob/main/Day1_Python_and_AI_in_Medicine/Pandas_Matplotlib_Seaborn_Notebook_Tasks.ipynb) |
+| **2** | Core Machine Learning for Genomics | [Slides](https://github.com/BarbaraTarantino/AI-for-Genomic-Data-Science/blob/main/Day2_Machine_Learning/Core_Machine_Learning_for_Genomics.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BarbaraTarantino/AI-for-Genomic-Data-Science/blob/main/Day2_Machine_Learning/MLmodels_Notebook.ipynb) |
+| **3** | Deep Learning Foundations | [Slides 1](https://github.com/BarbaraTarantino/AI-for-Genomic-Data-Science/blob/main/Day3_Deep_Learning/Deep_Learning_Foundations.pdf) • [Slides 2](https://github.com/BarbaraTarantino/AI-for-Genomic-Data-Science/blob/main/Day3_Deep_Learning/Deep_Learning_in_Python.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BarbaraTarantino/AI-for-Genomic-Data-Science/blob/main/Day3_Deep_Learning/DeepLearning_Notebook.ipynb) |
+| **4** | Computer Vision for Medicine | [Slides](https://github.com/BarbaraTarantino/AI-for-Genomic-Data-Science/blob/main/Day4_Computer_Vision/Computer_Vision_for_Medicine.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BarbaraTarantino/AI-for-Genomic-Data-Science/blob/main/Day4_Computer_Vision/ComputerVision_CNN.ipynb) |
+| **5** | Large Language Models and Clinical Text | [Slides](https://github.com/BarbaraTarantino/AI-for-Genomic-Data-Science/blob/main/Day5_LLMs/Large_Language_Models_and_Clinical_Text.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BarbaraTarantino/AI-for-Genomic-Data-Science/blob/main/Day5_LLMs/Biomedical_LLMs.ipynb) |
 
 Each day includes conceptual lectures, coding sessions, and applied tutorials focused on reproducible, transparent, and interpretable AI for biomedical data.
 
@@ -24,7 +24,7 @@ Each day includes conceptual lectures, coding sessions, and applied tutorials fo
 By the end of the course, participants will be able to:
 
 - Develop Python-based data analysis workflows for genomic and biomedical datasets.  
-- Apply supervised machine learning algorithms for biomedical inference.  
+- Apply supervised and unsupervised machine learning algorithms for biomedical inference.  
 - Design, train, and evaluate deep neural networks using PyTorch.  
 - Implement computer vision methods for medical imaging analysis.  
 - Understand and apply large language models for clinical and biomedical text mining.  
